@@ -8,7 +8,7 @@ O conteúdo está organizado em pacotes de acordo com a temática da aula
 #### - Aula01 :small_orange_diamond: Não possui código devido à aula prática ter sido dedicada a configurar um ambiente de trabalho
 
 #### - Aula02 :small_orange_diamond: Criando classes e objetos em java 
-       Foi modelado um obejto do tipo Caneta e algumas funcionalidades
+       Foi modelado um objeto do tipo Caneta e algumas funcionalidades
        
 #### - Aula03 :small_orange_diamond: Configurando a visibilidade de atributos e métodos
        Reaproveitamos o código da Caneta criada na Aula02, porém dessa vez configurando a visibilidade dos métodos 
