@@ -75,9 +75,13 @@ public class Video implements AcoesVideo {
 
 	@Override
 	public String toString() {
-		return "Video [titulo=" + titulo + ", avaliacao=" + avaliacao + ", views=" + views + ", curtidas=" + curtidas
-				+ ", reproduzindo=" + reproduzindo + "]";
+		return "O vídeo reproduzido é: " + this.getTitulo() + 
+				"\nEstatísticas do vídeo: " +
+				"\nAvaliação: " + this.getAvaliacao() + 
+				"\nViews: " + this.getViews() +
+				"\nCurtidas: " + this.getCurtidas() +
+				"\nO vídeo está sendo reproduzido? " + this.isReproduzindo();
+				
 	}
 	
-
 }

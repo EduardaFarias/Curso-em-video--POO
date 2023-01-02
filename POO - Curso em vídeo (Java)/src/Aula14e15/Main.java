@@ -12,20 +12,28 @@ public class Main {
 		g[0] = new Gafanhoto("Jubileu", 22, "M", "Juba");
 		g[1] = new Gafanhoto("Creuza", 12, "F", "Creuzita");
 		
-		System.out.println("Vídeos\n-----------------");
-		System.out.println(v[0].toString());
-		System.out.println(v[1].toString());
-		System.out.println(v[2].toString());
-		System.out.println("\nGafanhotos\n-----------------");
-		System.out.println(g[0].toString());
-		System.out.println(g[1].toString());
+		/*
+		 * System.out.println("Vídeos\n-----------------");
+		 * System.out.println(v[0].toString()); 
+		 * System.out.println(v[1].toString());
+		 * System.out.println(v[2].toString());
+		 * System.out.println("\nGafanhotos\n-----------------");
+		 * System.out.println(g[0].toString());
+		 *  System.out.println(g[1].toString());
+		 * 
+		 * System.out.println(vis1.toString());
+		 * System.out.println("-------------------"); 
+		 * Visualizacao(g[0], v[1]); System.out.println(vis2.toString());
+		 */
+		/*
+		 * Visualizacao(g[1], v[0]); System.out.println(g[0].toString());
+		 * System.out.println(""); System.out.println(v[0].toString());
+		 */
 		
-		Visualizacao vis1 = new Visualizacao(g[0], v[2]);
-		System.out.println(vis1.toString());
-		System.out.println("-------------------");
+		Visualizacao vis1 = new Visualizacao(g[0], v[0]);
 		Visualizacao vis2 = new Visualizacao(g[0], v[1]);
-		System.out.println(vis2.toString());
-		
+		System.out.println(vis1.toString());
+		 
 
 	}
 

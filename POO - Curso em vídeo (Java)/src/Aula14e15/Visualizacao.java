@@ -29,8 +29,10 @@ public class Visualizacao {
 
 	@Override
 	public String toString() {
-		return "Visualizacao [espectador=" + espectador + ", filme=" + filme + 
-				"o espectador possui " + this.espectador.getTotAssistido()  + " assistidos]" ;
+		return "Dados da visualizacao:\n" +
+				"O espectador é: " + this.getEspectador().getNome() +
+				"\nO filme é: " + this.getFilme() +
+				"\nO espectador possui " + this.getEspectador().getTotAssistido() + " vídeos assistidos";
 	}
 	
 	public void avaliar() {

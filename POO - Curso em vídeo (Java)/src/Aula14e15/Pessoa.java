@@ -40,7 +40,14 @@ public abstract class Pessoa {
 
 	@Override
 	public String toString() {
-		return "Pessoa [nome=" + nome + ", idade=" + idade + ", sexo=" + sexo + ", experiencia=" + experiencia + "]";
+		return 	"  ==============" +
+				"\n|| Informações ||"+
+				"\n ===============" +
+				"\nNome: " + this.getNome() +
+				"\nIdade: " + this.getIdade() +
+				"\nSexo: " + this.getSexo() +
+				"\nExperiência: " + this.getExperiencia();
+				
 	}
 	
 	
