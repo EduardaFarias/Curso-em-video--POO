@@ -12,13 +12,13 @@ O conteúdo está organizado em pacotes de acordo com a temática da aula
        Foi modelado um objeto do tipo Caneta e algumas funcionalidades
        
 #### - Aula03 :small_orange_diamond: Configurando a visibilidade de atributos e métodos
-       Reaproveitamos o código da Caneta criada na Aula02, porém dessa vez configurando a visibilidade dos métodos 
-       e atributos
+       Reaproveitamos o código da Caneta criada na Aula02, porém dessa vez configurando a visibilidade 
+       dos métodos e atributos
        
 
 #### - Aula04 :small_orange_diamond: Métodos especiais: Getters, setters e construtores
-       Recriamos o objeto do tipo Caneta, contudo, agora adicionando um contrutor para Caneta, e criando 
-       métodos acessores e modificadores do objeto
+       Recriamos o objeto do tipo Caneta, contudo, agora adicionando um contrutor para Caneta, e
+       criando métodos acessores e modificadores do objeto
        
 #### - Aula05 :small_orange_diamond: Exemplo prático
        Um exemplo prático de POO modelando uma conta de banco
@@ -36,21 +36,22 @@ O conteúdo está organizado em pacotes de acordo com a temática da aula
        Fizemos uma interação entre as classes Luta e Lutador
       
 #### - Aula09 :small_orange_diamond: Agregação entre objetos com java
-       Criamos objetos do tipo Pessoa e Livro,fizemos a pessoa ler o livro relacionado as classes, neste exercício 
-       também foi praticado o conceito de interface
+       Criamos objetos do tipo Pessoa e Livro,fizemos a pessoa ler o livro relacionado as classes, 
+       neste exercício também foi praticado o conceito de interface
        
 
 #### - Aula10 :small_orange_diamond: Herança
-       Introdução aos conceitos de herança, mostramos que quando uma classe filha herda métodos e atributos da classe mãe
-       a classe filha pode usá-los sem precisar reescrever os mesmos trechos de código.
+       Introdução aos conceitos de herança, mostramos que quando uma classe filha herda métodos e 
+       atributos da classe mãe a classe filha pode usá-los sem precisar reescrever os mesmos trechos 
+       de código.
        
 #### - Aula11 :small_orange_diamond: Herança
-       Continuando o assunto de herança, apresentando agora a herança pobre, e também a herança da herança, e introduz o 
-       conceito de classe abstrata.
+       Continuando o assunto de herança, apresentando agora a herança pobre, e também a herança da herança, 
+       e introduz o conceito de classe abstrata.
        
 #### - Aula12 :small_orange_diamond: Polimorfismo
-       Introduzindo o conceito de polimorfismo, exemplificando como o mesmo método pode se comportar de modo diferente,
-       de acordo com a mudança de assinatura do método.
+       Introduzindo o conceito de polimorfismo, exemplificando como o mesmo método pode se comportar
+       de modo diferente, de acordo com a mudança de assinatura do método.
        
 #### - Aula13 :small_orange_diamond: Polimorfismo de sobrecarga
        Utilizando @Override para sobrepor métodos, utlizando o mesmo método herdado mas sobrescrito
